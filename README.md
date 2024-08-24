@@ -2,5 +2,5 @@
 The sites I'm working on.
 
 ## KitchenCalc
-https://kitchen.calc
+https://calc.kitchen
 
